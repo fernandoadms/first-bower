@@ -1,0 +1,26 @@
+{
+  "name": "zombie-striker",
+  "version": "q",
+  "authors": [
+    "Fernando santos <fernando.wdesign@icloud.com>"
+  ],
+  "description": "app to strike zombies with bower",
+  "main": "assets/scripts/main.js",
+  "keywords": [
+    "zombie",
+    "striker"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FeSantos/first-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "assets/components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
